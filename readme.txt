@@ -4,7 +4,7 @@ Donate link: http://www.widgilabs.com
 Tags: theme, selector, theme_selector, adminbar
 Requires at least: 3.0
 Tested up to: 3.3.0
-Stable tag: 3.3
+Stable tag: 1.0
 
 Theme selector enables users to preview and activate themes through an interface similar to tumblr. 
 
@@ -34,8 +34,13 @@ None yet.
 
 == Changelog ==
 
-0.1 Initial version
+= 1.0 =
+* Fixed bug with activate
 
+= 0.1 =
+* Initial version
+
+ 
 == Upgrade Notice ==
 
 None.

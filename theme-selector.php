@@ -3,7 +3,7 @@
 Plugin Name: Theme-Selector
 Plugin URI: http://www.widgilabs.com
 Description: Theme selector enables users to preview and activate themes through an interface similar to tumblr. A new button is available on the admin bar and it works as a shortcut to this new theme selector interface.
-Version: 0.1
+Version: 1.0
 Author: WidgiLabs
 Author URI: http://www.widgilabs.com
 
@@ -187,6 +187,7 @@ function show_theme_selector_form(){
 				line-height: 18px;
 				font-weight: bold;
 				top: -8px;
+				width: 70%;
 				position: relative;
 			}
 			
